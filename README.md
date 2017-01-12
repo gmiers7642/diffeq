@@ -1,2 +1,2 @@
 # diffeq
-Differential equation numerical code I' e been playing with
+Differential equation numerical code I've been playing around with
